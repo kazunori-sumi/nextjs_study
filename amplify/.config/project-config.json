@@ -6,7 +6,7 @@
         "framework": "react",
         "config": {
             "SourceDir": ".",
-            "DistributionDir": "dist",
+            "DistributionDir": ".next",
             "BuildCommand": "yarn build",
             "StartCommand": "yarn start"
         }
