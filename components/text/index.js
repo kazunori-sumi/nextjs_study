@@ -3,7 +3,7 @@ import React from 'react';
 export default () => {
   return (
     <div>
-      tetetetete
+      <h1>Next.js + AWS Amplify</h1>
     </div>
   )
 }
